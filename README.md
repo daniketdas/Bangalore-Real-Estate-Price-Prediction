@@ -1,1 +1,2 @@
 # Bangalore-Real-Estate-Price-Prediction
+In this project, I collected data from Kaggle and conducted thorough data cleaning, feature engineering, and outlier removal processes. Subsequently, I developed a linear regression model to predict real estate prices in Bangalore. The project aimed to provide a reliable tool for estimating property values, facilitating informed decision-making in the Bangalore real estate market.
