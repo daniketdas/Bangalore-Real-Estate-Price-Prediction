@@ -29,7 +29,7 @@ So, 13320 rowes and 9 columns were there in the dataset.
 ![image](https://github.com/user-attachments/assets/0e164370-7f5d-4b65-9ced-4b5d34af921c)
 * The total_sqft column contained mixed formats (integers, ranges, and units). These were standardized by replacing ranges with their mean values.
 
-### Dimentionality Reduction:
+### Dimensionality Reduction:
 
 ![image](https://github.com/user-attachments/assets/82a442fd-5ac3-4cf2-bc2b-20f6dc4bd6e4)
 ![image](https://github.com/user-attachments/assets/f9c1c778-e993-4d23-bd1c-eccceaddf867)
